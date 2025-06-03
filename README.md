@@ -25,7 +25,7 @@
 1. **Clone or Download** the project:
 
    ```bash
-   git clone <https://github.com/ELSEFI/GymSystem.git>
+   https://github.com/MazenWahed22/GymSystem.git
    ```
 
 2. **Open in NetBeans** or any Java IDE that supports Ant builds.
